@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/utf7"
+	"github.com/donomii/go-imap"
+	"github.com/donomii/go-imap/utf7"
 )
 
 // Append is an APPEND command, as defined in RFC 3501 section 6.3.11.

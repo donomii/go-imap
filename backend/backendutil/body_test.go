@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-message/textproto"
+	"github.com/donomii/go-imap"
+	"github.com/donomii/go-message/textproto"
 )
 
 var bodyTests = []struct {

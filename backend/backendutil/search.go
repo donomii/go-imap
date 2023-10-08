@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-message"
-	"github.com/emersion/go-message/mail"
-	"github.com/emersion/go-message/textproto"
+	"github.com/donomii/go-imap"
+	"github.com/donomii/go-message"
+	"github.com/donomii/go-message/mail"
+	"github.com/donomii/go-message/textproto"
 )
 
 func matchString(s, substr string) bool {

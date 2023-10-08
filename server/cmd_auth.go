@@ -5,10 +5,10 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-imap/backend"
-	"github.com/emersion/go-imap/commands"
-	"github.com/emersion/go-imap/responses"
+	"github.com/donomii/go-imap"
+	"github.com/donomii/go-imap/backend"
+	"github.com/donomii/go-imap/commands"
+	"github.com/donomii/go-imap/responses"
 )
 
 // imap errors in Authenticated state.

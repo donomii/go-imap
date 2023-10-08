@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/emersion/go-imap"
+	"github.com/donomii/go-imap"
 )
 
 func TestClient_Select(t *testing.T) {
