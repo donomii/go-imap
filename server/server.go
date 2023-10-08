@@ -14,7 +14,7 @@ import (
 	"github.com/donomii/go-imap"
 	"github.com/donomii/go-imap/backend"
 	"github.com/donomii/go-imap/responses"
-	"github.com/donomii/go-sasl"
+	"github.com/emersion/go-sasl"
 )
 
 // The minimum autologout duration defined in RFC 3501 section 5.4.

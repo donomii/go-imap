@@ -8,7 +8,7 @@ import (
 	"github.com/donomii/go-imap"
 	"github.com/donomii/go-imap/commands"
 	"github.com/donomii/go-imap/responses"
-	"github.com/donomii/go-sasl"
+	"github.com/emersion/go-sasl"
 )
 
 var (
